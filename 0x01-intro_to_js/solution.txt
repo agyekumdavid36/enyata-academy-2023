@@ -1,0 +1,17 @@
+Q.1 When are let and const used? What do they mean — and how are they different from var?
+ans.1 let is used to declare variables.
+const is used to set values that would not change.
+Q.2 How can we use a variable after we've defined it?
+ans.2 we just have to call it in the console.
+Q.3 How do we declare a string?
+ans.3 by placing it in quotation marks. eaxmple let name = "David"
+Q.4 Can we create strings with either single or double quotes? Explain
+ans.4 Yes both identify the argument in it as strings.
+Q.5 What's the difference between "9" with quotes and 9 without?
+ans.5 "9" is a string which can not be used to perform arithmetric operations whiles 9 is an integer.
+Q.6 What are the differences between the following
+ans.6 
+Declaration is when you first define a variable and in JavaScript it comes with the givining the variable a value.
+Redeclaration is repeating the initial Declaration of a variable within a code. this time its value need not be the same as previous.
+Assignment is providing a variable with a value.
+Reassignment is providing a variable that already has a value with a new one.
